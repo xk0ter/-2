@@ -34,7 +34,7 @@
 ---
 ```bash
 `src/index.html
-`python -m http.server 8000\
+`python -m http.server 8000
 `http://localhost:8000
 ```
 ### используемые-данные
